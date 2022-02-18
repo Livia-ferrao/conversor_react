@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Projeto conversão de moedas
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Projeto de conversão de moedas criado em React JS seguindo os passos do canal “Programador BR”.
 
 ## Available Scripts
 
